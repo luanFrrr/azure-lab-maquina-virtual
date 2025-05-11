@@ -62,4 +62,4 @@ Uma máquina virtual (VM) é um ambiente de computação virtualizado que simula
 ## ✍️ Autor
 
 **Luan**  
-Desenvolvendo habilidades em Cloud com foco, disciplina e atitude.
+Desenvolvendo habilidades em Cloud com foco, disciplina e atitude!
